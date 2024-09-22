@@ -147,7 +147,6 @@ LIMIT 5;
 
 
 /*	
-Follow me in LinkedIn :: https://www.linkedin.com/in/najirr/
-Follow me in insta :: https://www.instagram.com/zero_analyst/
-Subscribe to our youtube channel :: https://www.youtube.com/@zero_analyst
+Follow me on LinkedIn :: https://www.linkedin.com/in/rajeshmsahu12/
+Subscribe to our YouTube channel :: https://www.youtube.com/@sonamsahukitchen1471
 */
